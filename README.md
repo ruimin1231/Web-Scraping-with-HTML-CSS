@@ -19,15 +19,15 @@ This project consisted on a Python script to scrape text and images from various
 
 The Desktop view & Iphone View
 
-![ScreenShot](/screenshots/mission_to_mars_desktop1.png)
+![ScreenShot](https://github.com/ruimin1231/Web-Scraping-with-HTML-CSS/blob/main/challenge/images/mission_to_mars_desktop1.png)
 
-![ScreenShot](/screenshots/mission_to_mars_desktop2.png)
+![ScreenShot](https://github.com/ruimin1231/Web-Scraping-with-HTML-CSS/blob/main/challenge/images/mission_to_mars_desktop2.png)
 
 Phone view:
 
-![ScreenShot](/screenshots/iPhone_view1.png)
+![ScreenShot](https://github.com/ruimin1231/Web-Scraping-with-HTML-CSS/blob/main/challenge/images/iPhone_view1.png)
 
-![ScreenShot](/screenshots/iPhone_view_2.png)
+![ScreenShot](https://github.com/ruimin1231/Web-Scraping-with-HTML-CSS/blob/main/challenge/images/iPhone_view_2.png)
 
 The final product was a fully-functional web application creted with Flask that included images, a table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
 
