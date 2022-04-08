@@ -30,10 +30,3 @@ Phone view:
 ![ScreenShot](https://github.com/ruimin1231/Web-Scraping-with-HTML-CSS/blob/main/challenge/images/iPhone_view_2.png)
 
 The final product was a fully-functional web application creted with Flask that included images, a table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
-
-## **Code**
----
-
-* App script: [app.py](path/to/app.py)
-* HTML code: [html](path/to/templates)
-* Scraping script: [scrapping](path/to/scraping.py)
